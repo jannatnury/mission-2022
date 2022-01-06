@@ -66,6 +66,14 @@ p{
 .sec-21 img{
   width: 100%;
 }
+.section2{
+    display: flex;
+    margin: 50px 0;
+    border-radius: 20px;
+    justify-content: space-between;
+    align-items: center;
+
+}
 
 .third-sec{
     display: flex;
