@@ -1,3 +1,16 @@
 .all-heading{
     color: orange;
 }
+.all-button{
+    color: whitesmoke;
+    background-color: tomato;
+    border: none;
+}
+p{
+    color: rgb(21, 2, 39);
+}
+.sec-1{
+    display: flex;
+    margin-left: 2cm;
+    margin-top: 1cm;
+}
