@@ -1,6 +1,9 @@
 body{
     font-family: 'Raleway', sans-serif;
 }
+.title{
+    border-left:solid red;
+}
 .all-heading{
     color: orange;
 }
@@ -49,8 +52,16 @@ p{
  width: 30%;
  padding: 10px;
  text-align: center;
- background-color: azure;
  border-radius: 20px;
+}
+.img1{
+    background-color: papayawhip;
+}
+.img2{
+    background-color: lightcyan;
+}
+.img3{
+    background-color: lavender;
 }
 .sec-21 img{
   width: 100%;
@@ -88,8 +99,16 @@ p{
 .fifth-section{
     display: flex;
     margin: 50px 0;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
+}
+.sec-5{
+    width: 45%;
+    padding: 10px;
+}
+.sec-5 img{
+    width: 100%;
+    border-radius: 30px;
 }
 .footer0{
     background-color: black;
@@ -101,6 +120,7 @@ p{
 }
 .footer1{
     color: lightsteelblue;
+    padding-bottom: 15px;
 }
 .margin{
     margin-left: 2cm ;
