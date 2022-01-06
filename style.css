@@ -49,3 +49,10 @@ p{
 .fourth-sec{
     display: flex;
 }
+.footer{
+    color: white;
+    background-color: black;
+}
+.footer1{
+    color: lightsteelblue;
+}
