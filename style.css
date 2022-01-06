@@ -6,15 +6,18 @@ body{
 }
 .first-sec{
     display: flex;
+    justify-content: space-between;
+    align-items: center;
 
 }
-.half-width{
-    width: 50%;
-    padding-left: 10%;
+.hero{
+    width: 45%;
+    padding: 10px;
+
 }
-.img{
-    height: 350px;
-    width: 300px;
+.hero img{
+   width: 100%;
+
 }
 h1{
     font-weight: bolder;
@@ -39,28 +42,34 @@ p{
 }
 .section2{
    display: flex;
+   justify-content: space-between;
+   
 }
 .sec-21{
+ width: 30%;
+ padding: 10px;
+ text-align: center;
+ background-color: azure;
+ border-radius: 20px;
+}
+.sec-21 img{
+  width: 100%;
+}
 
-    background-color:lightgrey;
-    border-radius: 25px;
-    margin-left: 2cm;
-    margin-right: 2cm;
-}
-.sec-22{
-    background-color: lightgreen;
-    border-radius: 25px;
-    margin-left: 2cm;
-    margin-right: 2cm;
-}
-.sec-23{
-    background-color: lightpink;
-    border-radius: 25px;
-    margin-left: 2cm;
-    margin-right: 2cm;
-}
 .third-sec{
     display: flex;
+    margin: 50px 0;
+    justify-content: space-between;
+    align-items: center;
+}
+.sec-3{
+    width: 45%;
+    padding: 10px;
+
+}
+.sec-3 img{
+    width: 100%;
+    border-radius: 30px;
 }
 .fourth-sec{
     display: flex;
