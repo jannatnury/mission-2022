@@ -7,7 +7,7 @@
     border: none;
 }
 p{
-    color: rgb(21, 2, 39);
+    color: rgb(3, 0, 5);
 }
 .sec-1{
     display: flex;
@@ -19,5 +19,21 @@ p{
 
 }
 .sec-2{
-    display: flex;
+    text-align: center;
+}
+.section2{
+   display: flex;
+}
+.sec-21{
+
+    background-color:lightgrey;
+    border-radius: 10px;
+}
+.sec-22{
+    background-color: lightgreen;
+    border-radius: 10px;
+}
+.sec-23{
+    background-color: lightpink;
+    border-radius: 10px;
 }
