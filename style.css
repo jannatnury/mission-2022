@@ -4,6 +4,21 @@ body{
 .all-heading{
     color: orange;
 }
+.first-sec{
+    display: flex;
+
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.img{
+    height: 350px;
+    width: 300px;
+}
+h1{
+    font-weight: bolder;
+}
 .all-button{
     color: whitesmoke;
     background-color: tomato;
@@ -17,10 +32,8 @@ p{
     margin-left: 2cm;
     margin-top: 1cm;
 }
-.pic-sec1{
-    
 
-}
+    
 .sec-2{
     text-align: center;
 }
@@ -62,4 +75,7 @@ p{
 }
 .footer1{
     color: lightsteelblue;
+}
+.margin{
+    margin-left: 2cm ;
 }
