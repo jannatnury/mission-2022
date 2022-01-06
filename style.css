@@ -102,6 +102,13 @@ p{
     justify-content: space-between;
     align-items: center;
 }
+.sec-5-wrap{
+    display: flex;
+    margin: 50px 0;
+    justify-content: space-between;
+    align-items: center;
+
+}
 .sec-5{
     width: 45%;
     padding: 10px;
