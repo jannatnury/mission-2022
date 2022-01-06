@@ -73,6 +73,23 @@ p{
 }
 .fourth-sec{
     display: flex;
+    margin: 50px 0;
+    justify-content: space-between;
+    align-items: center;
+}
+.sec-4{
+    width: 45%;
+    padding: 10px;
+}
+.sec-4 img{
+    width: 100%;
+    border-radius: 30px;
+}
+.fifth-section{
+    display: flex;
+    margin: 50px 0;
+    justify-content: center;
+    align-items: center;
 }
 .footer0{
     background-color: black;
