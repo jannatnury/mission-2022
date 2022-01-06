@@ -72,7 +72,6 @@ p{
     border-radius: 20px;
     justify-content: space-between;
     align-items: center;
-
 }
 
 .third-sec{
@@ -84,7 +83,6 @@ p{
 .sec-3{
     width: 45%;
     padding: 10px;
-
 }
 .sec-3 img{
     width: 100%;
@@ -115,7 +113,6 @@ p{
     margin: 50px 0;
     justify-content: space-between;
     align-items: center;
-
 }
 .sec-5{
     width: 45%;
@@ -131,7 +128,7 @@ p{
 }
 .footer{
     color: white;
-  
+    
 }
 .footer1{
     color: lightsteelblue;
