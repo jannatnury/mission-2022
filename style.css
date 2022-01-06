@@ -27,13 +27,22 @@ p{
 .sec-21{
 
     background-color:lightgrey;
-    border-radius: 10px;
+    border-radius: 25px;
+    margin-left: 2cm;
+    margin-right: 2cm;
 }
 .sec-22{
     background-color: lightgreen;
-    border-radius: 10px;
+    border-radius: 25px;
+    margin-left: 2cm;
+    margin-right: 2cm;
 }
 .sec-23{
     background-color: lightpink;
-    border-radius: 10px;
+    border-radius: 25px;
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+.third-sec{
+    display: flex;
 }
